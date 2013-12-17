@@ -1,8 +1,0 @@
-C:\LokalStorage\Downloads\SharpDevelop Projects\apos2-asdb-restsharp\apos2-asdb-restsharp\obj\Debug\apos2-asdb-restsharp.csprojResolveAssemblyReference.cache
-C:\LokalStorage\Downloads\SharpDevelop Projects\apos2-asdb-restsharp\apos2-asdb-restsharp\bin\Debug\apos2-asdb-restsharp.exe.config
-C:\LokalStorage\Downloads\SharpDevelop Projects\apos2-asdb-restsharp\apos2-asdb-restsharp\bin\Debug\apos2-asdb-restsharp.exe
-C:\LokalStorage\Downloads\SharpDevelop Projects\apos2-asdb-restsharp\apos2-asdb-restsharp\bin\Debug\apos2-asdb-restsharp.pdb
-C:\LokalStorage\Downloads\SharpDevelop Projects\apos2-asdb-restsharp\apos2-asdb-restsharp\bin\Debug\RestSharp.dll
-C:\LokalStorage\Downloads\SharpDevelop Projects\apos2-asdb-restsharp\apos2-asdb-restsharp\bin\Debug\RestSharp.xml
-C:\LokalStorage\Downloads\SharpDevelop Projects\apos2-asdb-restsharp\apos2-asdb-restsharp\obj\Debug\apos2-asdb-restsharp.exe
-C:\LokalStorage\Downloads\SharpDevelop Projects\apos2-asdb-restsharp\apos2-asdb-restsharp\obj\Debug\apos2-asdb-restsharp.pdb
