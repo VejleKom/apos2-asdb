@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.3
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apos2-asdb", "apos2-asdb\apos2-asdb.csproj", "{465D771B-F1A8-4DF0-AAB7-B8CEBE7EFFDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{465D771B-F1A8-4DF0-AAB7-B8CEBE7EFFDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465D771B-F1A8-4DF0-AAB7-B8CEBE7EFFDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465D771B-F1A8-4DF0-AAB7-B8CEBE7EFFDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{465D771B-F1A8-4DF0-AAB7-B8CEBE7EFFDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

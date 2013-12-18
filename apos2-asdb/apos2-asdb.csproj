@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
   <PropertyGroup>
-    <ProjectGuid>{FA2F21D7-1C46-417F-BF14-4BF9B39FC1DD}</ProjectGuid>
+    <ProjectGuid>{465D771B-F1A8-4DF0-AAB7-B8CEBE7EFFDE}</ProjectGuid>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <OutputType>Exe</OutputType>
-    <RootNamespace>apos2_asdb_restsharp</RootNamespace>
-    <AssemblyName>apos2-asdb-restsharp</AssemblyName>
+    <RootNamespace>apos2_asdb</RootNamespace>
+    <AssemblyName>apos2-asdb</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -49,12 +49,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\apos2.cs" />
+    <Compile Include="Model\Apos2-Restsharp-Klasser.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Models" />
+    <Folder Include="Model" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
