@@ -18,7 +18,7 @@ Testet med SQL server 2008
 4.	Kopier filerne (apos2-asdb*, RestSharp*) til den maskine hvor programmet skal afvikles. Filerne skal ligge 
 	i samme folder. Programmet er udvilket til .NET Framework 4.0 som er en direkte afhængighed.
 	
-5.	Tilret apos2-asdb-builder.exe.config til det miljø programmet skal afvikles i.
+5.	Tilret apos2-asdb.exe.config til det miljø programmet skal afvikles i.
 	Specielt skal SQL connection string tilrettes. De øvrige kan sættes efter behov.
 	
 	debug til skærm får programmet til at skrive i konsolvinduet hvor langt det er, og det vil standse og

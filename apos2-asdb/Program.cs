@@ -195,7 +195,7 @@ namespace apos2_asdb
 				var lokationListResponse = client.Execute<lokationListResponse>(request);
 				foreach (var lokation in lokationListResponse.Data)
 				{
-					queries.Add ("INSERT INTO ASDB.dbo.unitlocation ([unituuid], [locationUuid]) VALUES ('" + enhed + "','" + lokation.uuid + "')");
+					queries.Add ("INSERT INTO ASDB.dbo.unitlocation ([unituuid], [locationUuid]) VALUES ('" + enhed + "','" + lokation.adresse + "')");
 					querycount++;
 				}
 
